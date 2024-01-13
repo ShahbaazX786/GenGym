@@ -1,3 +1,5 @@
+v1.0.3 - Changed Layout, Added Header / Footer components.
+
 v1.0.2 - Cleaned Up starter code.
 
 v1.0.1 - Added Assets.
